@@ -1,4 +1,4 @@
-# Inroduction
+# Introduction
 The iGaming platform serves as an online hub for various gaming activities. This internal documentation outlines the functionalities available to users.
 
 ![Inro](https://github.com/Zxcursed1654/evo/assets/170832101/e8f959eb-e33f-453c-906f-0ef914850ed4)
