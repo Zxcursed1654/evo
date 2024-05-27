@@ -1,9 +1,10 @@
 # Deposit and Withdrawal
-![image](https://github.com/Zxcursed1654/evo/assets/170832101/4442549d-ac1b-49a2-9e76-043ab1d7073b)
 
 ## Deposit Funds
 
 You can deposit funds into your account using four methods:
+
+![image](https://github.com/Zxcursed1654/evo/assets/170832101/4442549d-ac1b-49a2-9e76-043ab1d7073b)
 
 1. **Visa/MasterCard**: To deposit funds using Visa or MasterCard, go to the "Deposit" section and follow the on-screen instructions.
 
@@ -16,6 +17,8 @@ The minimum deposit and withdrawal amount is 100 UAH.
 ## Withdrawal of Funds
 
 To withdraw funds, go to the "Withdrawal" section and choose your preferred withdrawal method. Follow the on-screen instructions to complete the transaction. The minimum withdrawal amount is 100 UAH.
+
+![image](https://github.com/Zxcursed1654/evo/assets/170832101/472546cd-08d8-4dd0-8d19-da5fe33b47d3)
 
 **Note**: Withdrawals are processed to the same account details from which the deposit was made.
 
